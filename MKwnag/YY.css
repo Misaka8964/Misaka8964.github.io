@@ -1,0 +1,56 @@
+body{
+background-image:url(./pj.jpg ) ;
+background-repeat: repeat-x;
+}
+p{
+    font-size: 80px;
+    color: black;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+.box{
+    margin: 50px;
+    padding: 25px;
+    width: 30%;
+    height: 35%;
+    border-radius: 25px;
+    background-color: ghostwhite;
+    opacity:0.8;
+    float: right;
+    
+
+}
+
+.ad{
+    color: white;
+}
+
+.toubu{
+    margin: 50px;
+    padding: 25px;
+    width: 80vw;
+    height: 12vw;
+    border-radius: 25px;
+    background-color: ghostwhite;
+    opacity:0.8;
+    float: right;
+    transform: translate(-100px,0);
+
+}
+.p{
+    text-align: center;
+}
+
